@@ -1,16 +1,18 @@
-<h1 align="center">Hi World 👋🏾</h1>
+<h1 align="">Hi World 👋🏾</h1>
 
-<div class="">
+<div>
   <a href="https://github.com/dany-eduard">
-    <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
+    <img width="590" align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
   </a>
 
   <a href="https://github.com/dany-eduard">
-    <img height="196" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800" />
+    <img width="590" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800" />
   </a>
 </div>
-<h2 align="center">📬 Contact me ☎</h2>
-<p align="center">
+<br>
+
+<h2 align="">📬 Contact me ☎</h2>
+<p align="">
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/daniel-eduardo-almagro-966a271a9/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
     <!-- twitter -->
