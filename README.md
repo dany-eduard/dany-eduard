@@ -1,12 +1,14 @@
 <h1 align="center">Hi World 👋🏾</h1>
 
-<a href="https://github.com/dany-eduard">
-  <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
-</a>
+<div class="center">
+  <a href="https://github.com/dany-eduard">
+    <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
+  </a>
 
-<a href="https://github.com/dany-eduard">
-  <img height="196" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800" />
-</a>
+  <a href="https://github.com/dany-eduard">
+    <img height="196" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800" />
+  </a>
+</div>
 <h2 align="center">📬 Contact me ☎</h2>
 <p align="center">
     <!-- linkedin -->
@@ -17,7 +19,7 @@
     <a href="mailto:danyeduard17@gmail.com"><img src="https://i.pinimg.com/originals/84/7c/08/847c083cc09040091439e3c05d1fedde.png" width="40px" alt="e-mail"></a> &nbsp;
 </p>
 
-<!--
+<!--width="390" height="196"
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
