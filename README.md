@@ -1,6 +1,6 @@
 <h1 align="center">Hi World 👋🏾</h1>
 
-<div class="center">
+<div class="">
   <a href="https://github.com/dany-eduard">
     <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
   </a>
