@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://github.com/dany-eduard">
-  <img width="414" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800" />
+  <img height="196" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800" />
 </a>
 <h2 align="center">📬 Contact me ☎</h2>
 <p align="center">
