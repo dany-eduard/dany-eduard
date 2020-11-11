@@ -6,7 +6,7 @@
 </div>
 <br>
 
-<h2 align="">📬 Contact me ☎</h2>
+<h2>📬 Contact me ☎</h2>
 <p align="">
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/daniel-eduardo-almagro-966a271a9/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp;
