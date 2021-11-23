@@ -171,8 +171,8 @@ I like collaborative work, but I also like to keep my space. I like to learn new
 </p>
 
 <div>
-  <img align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
-  <img width="413" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
+  <img width="36%" align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
+  <img width="30%" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
 </div>
 <br>
 
