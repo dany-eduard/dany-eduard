@@ -1,3 +1,4 @@
+<p align="right"> <a href="https://github.com/dany-eduard/dany-eduard/blob/main/README_es.md">Español</a> </p>
 <h1 align="center">Hi 👋, I'm Daniel Eduardo Almagro</h1>
 <h3 align="center">Web Developer</h3>
 
