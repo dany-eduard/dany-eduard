@@ -5,7 +5,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dany-eduard" alt="dany-eduard" /> </p>
 
 <p>
-Professional Technician in Maintenance of Computer Systems. 3 years ago I got into programming. I currently have a year and a half of experience in web development. I know HTML, CSS, JavaScript, TypeScript, React, Angular, Node. Python and Linux and I are currently expanding my knowledge in PostgreSQL and MongoDB. I aspire to become a Full-Stack Developer.
+Professional Technician in Maintenance of Computer Systems. In 2018 I dabbled in the programming branch. I currently have a year and a half of experience in web development. I know HTML, CSS, JavaScript, TypeScript, React, Angular, Node. Python and Linux and I are currently expanding my knowledge in PostgreSQL and MongoDB. I aspire to become a Full-Stack Developer.
 
 I like collaborative work, but I also like to keep my space. I like to learn new things and a good way to do that is by listening to other people. I am tidy, consider myself a resilient person and like to take on new challenges and try better ways of doing things.
 </p>
