@@ -5,7 +5,7 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=dany-eduard" alt="dany-eduard" /></p>
 
 <p>
-Técnico Profesional en Mantenimiento de Sistemas Informáticos. En el 2018 me incursioné en la rama de la programación. Actualmente tengo un año y medio de experiencia en desarrollo web. Sé HTML, CSS, JavaScript, TypeScript, React, Angular, Node. Python y Linux y actualmente estoy ampliando mis conocimientos en PostgreSQL y MongoDB. Aspiro a convertirme en un desarrollador Full-Stack.
+Técnico Profesional en Mantenimiento de Sistemas Informáticos. En el 2018 me incursioné en la rama de la programación. Actualmente tengo dos años de experiencia en desarrollo web. Cuento con conocimientos en HTML, CSS, JavaScript, TypeScript, React, Angular, Node. Python, Linux. Trabajo con bases de datos MySQL, PostgreSQL y MongoDB.
 
 Me gusta el trabajo colaborativo, pero también me gusta mantener mi espacio. Me gusta aprender cosas nuevas y una buena manera de hacerlo es escuchando a otras personas. Soy ordenado, me considero una persona resiliente y me gusta asumir nuevos retos y probar mejores formas de hacer las cosas.
 </p>
