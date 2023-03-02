@@ -64,14 +64,6 @@ I like collaborative work, but I also like to keep my space. I like to learn new
       height="40"
     />
   </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -92,14 +84,6 @@ I like collaborative work, but I also like to keep my space. I like to learn new
     <img
       src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg"
-      alt="vuejs"
       width="40"
       height="40"
     />
@@ -152,14 +136,6 @@ I like collaborative work, but I also like to keep my space. I like to learn new
       height="40"
     />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
@@ -170,12 +146,16 @@ I like collaborative work, but I also like to keep my space. I like to learn new
   </a>
 </p>
 
-<div>
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
+
+<!-- <div>
   <img width="36%" align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
   <img width="30%" alt="Daniel Eduardo's Github Stats" class="responsive" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dany-eduard&layout=compact&theme=algolia&cache_seconds=1800&langs_count=6&hide=c" />
 </div>
-<br>
-
+<br> -->
 
 <!--width="390" height="196"
 <a href="https://github.com/anuraghazra/convoychat">
