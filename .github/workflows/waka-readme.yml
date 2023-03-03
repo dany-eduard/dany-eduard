@@ -5,7 +5,7 @@ on:
     # https://jasonet.co/posts/scheduled-actions/
     # Every Sunday at the end of the day (12AM UTC)
     # - cron: '0 0 * * 0'
-    - cron: "*/5 * * * *"
+    - cron: '0 23 * * *'
 
 jobs:
   update-readme:
