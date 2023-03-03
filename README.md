@@ -147,7 +147,7 @@ I like collaborative work, but I also like to keep my space. I like to learn new
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C160%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C186%20hrs%2043%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -170,7 +170,7 @@ Windows                  1 hr 9 mins         █░░░░░░░░░░�
 ```
 
 
- Last Updated on 03/03/2023 23:17:17 UTC
+ Last Updated on 03/03/2023 23:29:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div>
