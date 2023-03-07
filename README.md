@@ -126,7 +126,7 @@ I like collaborative work, but I also like to keep my space. I like to learn new
 <h3 align="left">WakaTime stats:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C187%20hrs%2021%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -149,7 +149,7 @@ Windows                  1 hr 25 mins        █░░░░░░░░░░�
 ```
 
 
- Last Updated on 06/03/2023 00:38:28 UTC
+ Last Updated on 07/03/2023 00:40:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div>
