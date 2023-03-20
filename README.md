@@ -126,7 +126,20 @@ I like collaborative work, but I also like to keep my space. I like to learn new
 <h3 align="left">WakaTime stats:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C222%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C225%20hrs%2059%20mins-blue)
+
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   1953 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Tuesday                  2978 commits        ██████░░░░░░░░░░░░░░░░░░░   22.31 % 
+Wednesday                2851 commits        █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Thursday                 2554 commits        █████░░░░░░░░░░░░░░░░░░░░   19.13 % 
+Friday                   2089 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Saturday                 430 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
+Sunday                   495 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+```
+
 
 📊 **This Week I Spent My Time On** 
 
@@ -148,7 +161,7 @@ WSL                      25 hrs 21 mins      ███████████�
 ```
 
 
- Last Updated on 19/03/2023 00:39:20 UTC
+ Last Updated on 20/03/2023 00:40:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div>
