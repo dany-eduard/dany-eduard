@@ -126,7 +126,7 @@ I like collaborative work, but I also like to keep my space. I like to learn new
 <h3 align="left">WakaTime stats:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C964%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C971%20hrs%2038%20mins-blue)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -157,12 +157,11 @@ SCSS                     0 secs              ░░░░░░░░░░░�
 VS Code                  27 hrs 1 min        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-WSL                      27 hrs 1 min        █████████████████████████   99.99 % 
-Windows                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+WSL                      27 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/10/2023 01:19:43 UTC
+ Last Updated on 23/10/2023 01:17:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div>
