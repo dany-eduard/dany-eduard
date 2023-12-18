@@ -126,7 +126,7 @@ I like collaborative work, but I also like to keep my space. I like to learn new
 <h3 align="left">WakaTime stats:</h3>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C174%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C178%20hrs%2012%20mins-blue)
 
 📅 **I'm Most Productive on Friday** 
 
@@ -161,7 +161,7 @@ WSL                      30 hrs 1 min        ███████████�
 ```
 
 
- Last Updated on 17/12/2023 01:28:51 UTC
+ Last Updated on 18/12/2023 01:23:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- <div>
