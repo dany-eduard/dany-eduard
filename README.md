@@ -123,6 +123,7 @@ I like collaborative work, but I also like to keep my space. I like to learn new
   </a>
 </p>
 
+<!--
 <h3 align="left">WakaTime stats:</h3>
 
 <!--START_SECTION:waka-->
@@ -163,6 +164,9 @@ WSL                      21 hrs 44 mins      ███████████�
 
  Last Updated on 22/07/2024 01:28:53 UTC
 <!--END_SECTION:waka-->
+-->
+
+
 
 <!-- <div>
   <img width="36%" align="center" alt="Daniel Eduardo's Github Stats" class="responsive" src="https://github-readme-stats.vercel.app/api?username=dany-eduard&count_private=true&show_icons=true&theme=algolia&cache_seconds=1800" />
